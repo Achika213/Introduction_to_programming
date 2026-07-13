@@ -3,7 +3,7 @@
 ## Winter Semester 2025/2026, Information Systems
 
 - [Topic 1](./Pract.01): Introduction. Primitive data types. Type conversions. Operators.
-- [Topic 2](./Topic-02): Conditional statements — `if`, `switch`, and the ternary operator.
+- [Topic 2](./Pract.02): Conditional statements — `if`, `switch`, and the ternary operator.
 - [Topic 3](./Topic-03): Loops. The `break` and `continue` statements.
 - [Topic 4](./Topic-04): Functions.
 - [Topic 5](./Topic-05): References and pointers.
