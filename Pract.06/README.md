@@ -1,4 +1,3 @@
-<img width="560" height="797" alt="tic-tac-toe-ui" src="https://github.com/user-attachments/assets/23c4a56c-a279-4973-9693-e50b21aa2302" />
 # Задачи Семинар
 - Отпечатване на масив. (Task 01)
 - Линейно търсене в масив. (Task 02)
