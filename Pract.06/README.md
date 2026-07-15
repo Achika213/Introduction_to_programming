@@ -31,7 +31,7 @@
 
 UI         |  CLI
 :-------------------------:|:-------------------------:
-<img width="560" height="797" alt="tic-tac-toe-ui" src="https://github.com/user-attachments/assets/24ba4f2c-3c93-4ac8-99c2-fe9f0d25781e" /> | <img src="https://user-images.githubusercontent.com/44736064/62582421-bd23a580-b882-11e9-92d8-ba0dced4bfb4.png" width="300" alt="tic-tac-toe-CLI" />
+<img width="300" height="797" alt="tic-tac-toe-ui" src="https://github.com/user-attachments/assets/24ba4f2c-3c93-4ac8-99c2-fe9f0d25781e" /> | <img src="https://user-images.githubusercontent.com/44736064/62582421-bd23a580-b882-11e9-92d8-ba0dced4bfb4.png" width="300" alt="tic-tac-toe-CLI" />
 
 ### [Онлайн версия на играта](https://playtictactoe.org)
 
