@@ -10,6 +10,5 @@
 - [Topic 6](./Pract.06): Arrays. Basic operations, traversal, and searching. Multidimensional arrays.
 - [Topic 7](./Pract.07): Character strings.
 - [Topic 8](./Pract.08): Number systems. Bitwise operations.
-- [Topic 9](./Pract.09): Memory architecture and memory management.
-- [Topic 10](./Pract.10): Recursion.
+- [Topic 9](./Pract.09): Recursion.
 
