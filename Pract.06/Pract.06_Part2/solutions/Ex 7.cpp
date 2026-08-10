@@ -50,9 +50,9 @@ int main() {
     cin >> rows1 >> cols1;
     cin >> rows2 >> cols2;
 
-    static int matrix1[SIZE][SIZE];
-    static int matrix2[SIZE][SIZE];
-    static int result[SIZE][SIZE];
+    int matrix1[SIZE][SIZE];
+    int matrix2[SIZE][SIZE];
+    int result[SIZE][SIZE];
 
     inputMatrix(matrix1, rows1, cols1);
     inputMatrix(matrix2, rows2, cols2);
