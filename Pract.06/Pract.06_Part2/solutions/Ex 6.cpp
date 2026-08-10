@@ -83,7 +83,7 @@ int main() {
     int rows, cols;
     cin >> rows >> cols;
 
-    static int matrix[SIZE][SIZE];
+    int matrix[SIZE][SIZE];
 
     inputMatrix(matrix, rows, cols);
 
