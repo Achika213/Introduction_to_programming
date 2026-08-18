@@ -2,10 +2,10 @@
 
 ## Winter Semester 2025/2026, Information Systems
 
-## Lectures
+### Lectures
 - [Lectures](./Lectures) - Information
 
-## Practicum 
+### Practicum 
 
 - [Topic 1](./Pract.01): Introduction. Primitive data types. Type conversions. Operators.
 - [Topic 2](./Pract.02): Conditional statements — `if`, `switch`, and the ternary operator.
@@ -17,6 +17,6 @@
 - [Topic 8](./Pract.08): Number systems. Bitwise operations.
 - [Topic 9](./Pract.09): Recursion.
 
-## 📝 Assessment
+### Assessment
 
 - [Exams](./Exams) — exams
